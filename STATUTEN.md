@@ -1,3 +1,5 @@
+![LOGO](https://cdn.rawgit.com/sgmk/statuten/logo/sgmk_logo_text.svg)
+
 # Statuten der Schweizerischen Gesellschaft für Mechatronische Kunst (SGMK)
 
 Zürich, 12. Dezember 2015
