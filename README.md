@@ -1,1 +1,0 @@
-Statuten der Schweizerischen Gesellschaft für Mechatronische Kunst
